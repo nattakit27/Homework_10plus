@@ -42,6 +42,9 @@ body {
   .user-list li:hover {
     transform: scale(1.1); 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.336);
+    color: #ff3b94;
+    border : solid white;
+    background-color: #ffffff;
   }
   
   .post-info {
